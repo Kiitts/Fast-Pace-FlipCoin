@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Kitts Things 1-1\C#\My own program\Fast-paced Flip coin\F-P Flip coin\F-P Flip coin\bin\Debug\netcoreapp3.1\F-P Flip coin.exe
+C:\Users\User\Desktop\Kitts Things 1-1\C#\My own program\Fast-paced Flip coin\F-P Flip coin\F-P Flip coin\bin\Debug\netcoreapp3.1\F-P Flip coin.deps.json
+C:\Users\User\Desktop\Kitts Things 1-1\C#\My own program\Fast-paced Flip coin\F-P Flip coin\F-P Flip coin\bin\Debug\netcoreapp3.1\F-P Flip coin.runtimeconfig.json
+C:\Users\User\Desktop\Kitts Things 1-1\C#\My own program\Fast-paced Flip coin\F-P Flip coin\F-P Flip coin\bin\Debug\netcoreapp3.1\F-P Flip coin.runtimeconfig.dev.json
+C:\Users\User\Desktop\Kitts Things 1-1\C#\My own program\Fast-paced Flip coin\F-P Flip coin\F-P Flip coin\bin\Debug\netcoreapp3.1\F-P Flip coin.dll
+C:\Users\User\Desktop\Kitts Things 1-1\C#\My own program\Fast-paced Flip coin\F-P Flip coin\F-P Flip coin\bin\Debug\netcoreapp3.1\F-P Flip coin.pdb
+C:\Users\User\Desktop\Kitts Things 1-1\C#\My own program\Fast-paced Flip coin\F-P Flip coin\F-P Flip coin\obj\Debug\netcoreapp3.1\F-P Flip coin.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Kitts Things 1-1\C#\My own program\Fast-paced Flip coin\F-P Flip coin\F-P Flip coin\obj\Debug\netcoreapp3.1\F_P_Flip_coin.Form1.resources
+C:\Users\User\Desktop\Kitts Things 1-1\C#\My own program\Fast-paced Flip coin\F-P Flip coin\F-P Flip coin\obj\Debug\netcoreapp3.1\F-P Flip coin.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Kitts Things 1-1\C#\My own program\Fast-paced Flip coin\F-P Flip coin\F-P Flip coin\obj\Debug\netcoreapp3.1\F-P Flip coin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Kitts Things 1-1\C#\My own program\Fast-paced Flip coin\F-P Flip coin\F-P Flip coin\obj\Debug\netcoreapp3.1\F-P Flip coin.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Kitts Things 1-1\C#\My own program\Fast-paced Flip coin\F-P Flip coin\F-P Flip coin\obj\Debug\netcoreapp3.1\F-P Flip coin.AssemblyInfo.cs
+C:\Users\User\Desktop\Kitts Things 1-1\C#\My own program\Fast-paced Flip coin\F-P Flip coin\F-P Flip coin\obj\Debug\netcoreapp3.1\F-P Flip coin.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Kitts Things 1-1\C#\My own program\Fast-paced Flip coin\F-P Flip coin\F-P Flip coin\obj\Debug\netcoreapp3.1\F-P Flip coin.dll
+C:\Users\User\Desktop\Kitts Things 1-1\C#\My own program\Fast-paced Flip coin\F-P Flip coin\F-P Flip coin\obj\Debug\netcoreapp3.1\F-P Flip coin.pdb
+C:\Users\User\Desktop\Kitts Things 1-1\C#\My own program\Fast-paced Flip coin\F-P Flip coin\F-P Flip coin\obj\Debug\netcoreapp3.1\F-P Flip coin.genruntimeconfig.cache

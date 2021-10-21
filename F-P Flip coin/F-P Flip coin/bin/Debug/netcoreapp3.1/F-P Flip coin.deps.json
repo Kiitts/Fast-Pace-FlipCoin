@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "F-P Flip coin/1.0.0": {
+        "runtime": {
+          "F-P Flip coin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "F-P Flip coin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
